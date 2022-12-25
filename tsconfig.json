@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "lib": ["DOM", "ESNext"],
+        "module": "esnext",
+        "target": "esnext",
+        "types": ["bun-types"],
+        "strict": true,
+        "moduleResolution": "node",
+        "skipLibCheck": true,
+        "noImplicitThis": true,
+        "allowSyntheticDefaultImports": true
+    }
+}
